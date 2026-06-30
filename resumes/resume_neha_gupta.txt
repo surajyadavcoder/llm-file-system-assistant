@@ -1,0 +1,17 @@
+Name: Neha Gupta
+Email: neha.gupta@email.com
+
+SUMMARY
+Machine Learning Engineer with 5 years of experience building production ML systems with Python.
+
+SKILLS
+Python, PyTorch, TensorFlow, AWS SageMaker, Docker, MLflow, NLP
+
+EXPERIENCE
+ML Engineer | AI Labs | 2020 - Present
+- Built NLP models using Python and PyTorch
+- Deployed models to production using AWS SageMaker
+- Reduced model inference latency by 50%
+
+EDUCATION
+M.Tech Computer Science | IIT Bombay | 2020

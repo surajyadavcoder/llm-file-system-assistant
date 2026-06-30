@@ -1,0 +1,17 @@
+Name: Ananya Iyer
+Email: ananya.iyer@email.com
+
+SUMMARY
+Product Manager with 7 years of experience leading cross-functional teams.
+
+SKILLS
+Product Strategy, Agile, JIRA, SQL, A/B Testing, Roadmapping, Figma
+
+EXPERIENCE
+Senior Product Manager | ProductCo | 2019 - Present
+- Led product strategy for B2B SaaS platform
+- Used SQL and analytics to drive data-informed decisions
+- Managed engineering team of 10
+
+EDUCATION
+MBA | IIM Ahmedabad | 2018

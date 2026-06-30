@@ -1,0 +1,17 @@
+Name: Arjun Mehta
+Email: arjun.mehta@email.com
+
+SUMMARY
+Data Scientist with 4 years of experience in Python, machine learning, and data analysis.
+
+SKILLS
+Python, scikit-learn, TensorFlow, Pandas, NumPy, SQL, Tableau
+
+EXPERIENCE
+Data Scientist | Analytics Co | 2020 - Present
+- Built predictive models using Python and scikit-learn
+- Created dashboards with Tableau for business stakeholders
+- Automated data pipelines reducing manual work by 60%
+
+EDUCATION
+M.Sc Statistics | ISI Kolkata | 2020

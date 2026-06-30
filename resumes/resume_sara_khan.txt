@@ -1,0 +1,17 @@
+Name: Sara Khan
+Email: sara.khan@email.com
+
+SUMMARY
+DevOps Engineer with 6 years of experience in AWS, Kubernetes, and CI/CD pipelines.
+
+SKILLS
+AWS, Kubernetes, Docker, Terraform, Jenkins, Python, Bash, Prometheus
+
+EXPERIENCE
+Senior DevOps Engineer | CloudFirst | 2019 - Present
+- Managed Kubernetes clusters serving 10M+ requests/day
+- Automated deployments with Python scripts and Jenkins
+- Reduced infrastructure costs by 30% via AWS optimization
+
+EDUCATION
+B.Tech Computer Science | NIT Trichy | 2018

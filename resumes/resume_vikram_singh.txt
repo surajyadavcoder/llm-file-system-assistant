@@ -1,0 +1,17 @@
+Name: Vikram Singh
+Email: vikram.singh@email.com
+
+SUMMARY
+Full Stack Developer with 2 years of experience in React, Node.js, and Python.
+
+SKILLS
+React, Node.js, Python, Express, MongoDB, JavaScript, Git
+
+EXPERIENCE
+Full Stack Developer | StartupHub | 2023 - Present
+- Built full stack applications with React frontend and Node.js backend
+- Wrote Python scripts for data processing tasks
+- Integrated MongoDB for data persistence
+
+EDUCATION
+B.Tech Information Technology | VIT Vellore | 2023

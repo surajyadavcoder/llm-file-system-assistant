@@ -1,0 +1,17 @@
+Name: Rohan Kapoor
+Email: rohan.kapoor@email.com
+
+SUMMARY
+QA Engineer with 3 years of experience in test automation using Python and Selenium.
+
+SKILLS
+Python, Selenium, pytest, Jenkins, API Testing, JIRA
+
+EXPERIENCE
+QA Engineer | QualityFirst | 2022 - Present
+- Built test automation framework using Python and Selenium
+- Reduced regression testing time by 70%
+- Wrote API tests in Python using pytest
+
+EDUCATION
+B.Tech Electronics | Delhi College of Engineering | 2021

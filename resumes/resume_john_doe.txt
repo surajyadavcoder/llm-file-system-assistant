@@ -1,0 +1,17 @@
+Name: John Doe
+Email: john.doe@email.com
+
+SUMMARY
+Senior Backend Developer with 5 years of experience in Python and cloud infrastructure.
+
+SKILLS
+Python, Django, FastAPI, PostgreSQL, AWS, Docker, Kubernetes, REST APIs
+
+EXPERIENCE
+Senior Backend Developer | TechCorp | 2021 - Present
+- Built microservices using Python and FastAPI
+- Deployed applications on AWS using Docker and Kubernetes
+- Led migration of legacy systems to Python 3.11
+
+EDUCATION
+B.Tech Computer Science | IIT Delhi | 2019

@@ -1,0 +1,16 @@
+Name: Priya Sharma
+Email: priya.sharma@email.com
+
+SUMMARY
+Frontend Developer with 3 years of React and TypeScript experience.
+
+SKILLS
+React, TypeScript, JavaScript, HTML, CSS, Redux, Next.js
+
+EXPERIENCE
+Frontend Developer | WebStudio | 2022 - Present
+- Built responsive UIs using React and TypeScript
+- Improved page load performance by 40%
+
+EDUCATION
+B.E Information Technology | Mumbai University | 2021
